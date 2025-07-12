@@ -13,7 +13,7 @@
 
 # SCORM Tools
 * [SCORM.io](https://www.scormstack.io/)
-* [Coassemble](https://coassemble.com/)	<<
+* [Coassemble](https://coassemble.com/)	
 * [Active Presenter](https://atomisystems.com/activepresenter/)
 * iSpring Suite
 * Moovly
